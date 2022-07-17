@@ -1,0 +1,9 @@
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Logic_Layer\bin\Debug\Logic_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Logic_Layer\bin\Debug\Logic_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Logic_Layer\obj\Debug\Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Logic_Layer\obj\Debug\Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Logic_Layer\obj\Debug\Logic_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Logic_Layer\obj\Debug\Logic_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Logic_Layer\bin\Debug\Dates_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Logic_Layer\bin\Debug\Dates_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Logic_Layer\obj\Debug\Logic_Layer.csproj.CopyComplete

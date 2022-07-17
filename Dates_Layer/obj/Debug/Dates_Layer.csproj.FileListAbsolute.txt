@@ -1,0 +1,6 @@
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Dates_Layer\bin\Debug\Dates_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Dates_Layer\bin\Debug\Dates_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Dates_Layer\obj\Debug\Dates_Layer.csproj.AssemblyReference.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Dates_Layer\obj\Debug\Dates_Layer.csproj.CoreCompileInputs.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Dates_Layer\obj\Debug\Dates_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Dates_Layer\obj\Debug\Dates_Layer.pdb

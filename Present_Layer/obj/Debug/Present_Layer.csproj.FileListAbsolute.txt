@@ -1,0 +1,64 @@
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\Present_Layer.exe.config
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\Present_Layer.exe
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\Present_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\obj\Debug\Present_Layer.csproj.AssemblyReference.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\obj\Debug\Present_Layer.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\obj\Debug\Present_Layer.FrmAgendArk.resources
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\obj\Debug\Present_Layer.Properties.Resources.resources
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\obj\Debug\Present_Layer.csproj.GenerateResource.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\obj\Debug\Present_Layer.csproj.CoreCompileInputs.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\obj\Debug\Present_Layer.exe
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\obj\Debug\Present_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\Logic_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\Logic_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\obj\Debug\Present_Layer.csproj.CopyComplete
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\Dates_Layer.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\Dates_Layer.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\NPOI.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\NPOI.OOXML.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\NPOI.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\NPOI.xml
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\NPOI.OOXML.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\NPOI.OOXML.xml
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\jdere\OneDrive\Documentos\Programación II\AgendArk\Present_Layer\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\Present_Layer.exe.config
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\Present_Layer.exe
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\Present_Layer.pdb
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\Logic_Layer.dll
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\NPOI.dll
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\NPOI.OOXML.dll
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\Dates_Layer.dll
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\Logic_Layer.pdb
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\NPOI.pdb
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\NPOI.xml
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\NPOI.OOXML.pdb
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\NPOI.OOXML.xml
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\bin\Debug\Dates_Layer.pdb
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\obj\Debug\Present_Layer.csproj.AssemblyReference.cache
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\obj\Debug\Present_Layer.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\obj\Debug\Present_Layer.FrmAgendArk.resources
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\obj\Debug\Present_Layer.Properties.Resources.resources
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\obj\Debug\Present_Layer.csproj.GenerateResource.cache
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\obj\Debug\Present_Layer.csproj.CoreCompileInputs.cache
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\obj\Debug\Present_Layer.csproj.CopyComplete
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\obj\Debug\Present_Layer.exe
+C:\Users\jdere\OneDrive\Escritorio\AgendArk\Present_Layer\obj\Debug\Present_Layer.pdb
